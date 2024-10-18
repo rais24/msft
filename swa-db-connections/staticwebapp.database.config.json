@@ -32,7 +32,7 @@
   "entities": {
     "AdventureWorks": {
       "source": {
-        "object": "dbo.*",
+        "object": "*.*",
         "type": "table"
       },
       "graphql": {
